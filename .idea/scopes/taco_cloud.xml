@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="taco-cloud" pattern="file[SpringBoot_Core.V1.2]:*" />
+</component>
